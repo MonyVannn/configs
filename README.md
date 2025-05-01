@@ -8,6 +8,8 @@ This repo contains my personal configuration files for:
 
 These configs help me work faster and keep my setup consistent across devices.
 
+![alt text](https://github.com/MonyVannn/dotfiles/blob/main/screenshots/main.png)
+
 ---
 
 ## Neovim Config
@@ -22,7 +24,9 @@ These configs help me work faster and keep my setup consistent across devices.
   1. Copy `nvim/` to `~/.config/nvim`
   2. Open Neovim and run `:Lazy sync`
 - Screenshots
-  
+  ![alt text](https://github.com/MonyVannn/dotfiles/blob/main/screenshots/nvim1.png)
+  ![alt text](https://github.com/MonyVannn/dotfiles/blob/main/screenshots/nvim2.png)
+  ![alt text](https://github.com/MonyVannn/dotfiles/blob/main/screenshots/nvim3.png)
 
 ## Aerospace Config
 
